@@ -1,14 +1,14 @@
 {
-  "name": "base16-tomorrow-light-theme",
+  "name": "base64-tomorrow-light-theme",
   "theme": "syntax",
-  "version": "1.6.0",
-  "description": "Base16 light theme for Atom",
+  "version": "0.0.0",
+  "description": "Base64 light theme for Atom",
   "keywords": [
     "base16",
     "light",
     "syntax"
   ],
-  "repository": "https://github.com/atom/base16-tomorrow-light-theme",
+  "repository": "https://github.com/billnelson88/base64-tomorrow-light-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.49.0"
