@@ -1,7 +1,7 @@
 {
   "name": "base64-tomorrow-light-theme",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Base64 light theme for Atomssss",
   "keywords": [
     "base16",
